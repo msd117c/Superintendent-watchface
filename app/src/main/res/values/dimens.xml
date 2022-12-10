@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digits_size">36sp</dimen>
+    <dimen name="multi_line_text_size">8sp</dimen>
+    <dimen name="additional_text_size">6sp</dimen>
+    <dimen name="ambient_text_size">12sp</dimen>
+
+    <dimen name="superintendent_radius">15dp</dimen>
+    <dimen name="image_width">18dp</dimen>
+</resources>
