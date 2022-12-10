@@ -3,6 +3,8 @@
 Superintendent watchface Wear OS
 </h1>
 
+<img src="https://media.tenor.com/g8PKKSi4QyoAAAAC/halo-superintendent.gif" />
+
 <h2>
 >>Description<<
 </h2>
